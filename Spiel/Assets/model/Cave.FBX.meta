@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: cefe9a6b4be1d364b8c1cf6e9f91f7b1
-timeCreated: 1428669074
+guid: f6f64f99a109aad40b6352bd31cd7e5e
+timeCreated: 1428937503
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -13,7 +13,7 @@ ModelImporter:
     6400000: //RootNode
     9500000: //RootNode
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -50,7 +50,7 @@ ModelImporter:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
